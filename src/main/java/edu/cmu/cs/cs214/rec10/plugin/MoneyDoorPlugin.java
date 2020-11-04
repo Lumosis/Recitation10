@@ -42,6 +42,7 @@ public class MoneyDoorPlugin implements GamePlugin {
         // For every position i, chooses a random position >= i and swaps it with the value at position i,
         // generating a random permutation of arr
         for(i = 0; i < 10; i++) {
+            System.out.println("Zhifeng Fu cows's virgina");
             int nextIndex;
 
             // Find an index at position >= i to swap to position i
